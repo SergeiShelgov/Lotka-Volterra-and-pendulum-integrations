@@ -1,5 +1,6 @@
 # Lotka-Volterra-and pendulum integrations
 Below are screenshots of the programs that show the quality of integration methods for the pendulum model and the Lotka-Volterra equation (screenshots with cats show the distribution of the numerical field)
+
 ![image](https://github.com/SergeiShelgov/Lotka-Volterra-and-pendulum-integrations/assets/148324730/c6e1f9ff-8d97-46a5-bdfc-ef67de9b1240)
 ![image](https://github.com/SergeiShelgov/Lotka-Volterra-and-pendulum-integrations/assets/148324730/5299adec-59ea-4730-bafd-681d81311890)
 ![image](https://github.com/SergeiShelgov/Lotka-Volterra-and-pendulum-integrations/assets/148324730/e4470e64-03a9-4b9b-8255-8d01ca553fc9)
