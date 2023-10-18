@@ -1,1 +1,1 @@
-# Lotka-Volterra-integrations
+# Lotka-Volterra-and pendulum integrations
